@@ -1,0 +1,40 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "product 1"
+    },
+    {
+      "id": 2,
+      "name": "product 2"
+    },
+    {
+      "name": "product update123",
+      "id": 3
+    },
+    {
+      "name": "product post",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "ao"
+    },
+    {
+      "id": "2",
+      "name": "quan"
+    }
+  ],
+  "data": [
+    {
+      "id": "1",
+      "name": "product 1"
+    },
+    {
+      "id": "2",
+      "name": "product 2"
+    }
+  ]
+}
